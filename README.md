@@ -1,5 +1,4 @@
 # DataProcessing
-Coursera DS Unit 3
 
 This respository contains the project submission for Getting and Cleaning Data course under Coursera Data Science specialisation.
 
@@ -23,6 +22,5 @@ average of each variable for each activity and each subject.
 
 Files:                                                                                                                
 (1) Readme.md : Short overview of repository                                                                          
-(2) Codebook.md : explanation on variables                                                                            
-(3) Run_analysis.R : script to process data                                                                           
+(2) Codebook.md : explanation on scipt and variables                                                                  (3) Run_analysis.R : script to process data                                                                           
 (4) averages_data.txt : Tidy dataset output                                                                           
